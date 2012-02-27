@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 
+  name: MyString
+  description: MyText
+  user_id: 1
+  view_count: 1
+  image_data: 
+  uploaded: 2012-02-26 14:38:08
+
+two:
+  id: 
+  name: MyString
+  description: MyText
+  user_id: 1
+  view_count: 1
+  image_data: 
+  uploaded: 2012-02-26 14:38:08
